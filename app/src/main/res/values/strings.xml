@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityServiceTest</string>
+    <string name="accessibility_service_description">该服务用于帮助用户去自动触发应用的一系列事件</string>
+</resources>
